@@ -1,0 +1,7 @@
+{
+  "name": "SmartSignal Enforcement System",
+  "description": "AI-Based Red Signal Violation Detection Using Vehicle Re-Identification by Soham Chaki. Uses a dual-pole camera setup to detect, confirm, and legally validate violations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
